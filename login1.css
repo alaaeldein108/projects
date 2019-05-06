@@ -1,0 +1,40 @@
+.t{
+    margin-bottom: 100px;
+    padding-left: 200px;
+    height:250px ;
+}
+.s{
+    margin-bottom: 100px;
+    padding-left: 400px;
+}
+body {
+    background-color: lightblue;
+    background-image: url("image2.jpg");
+  }
+  .button1
+  {
+    position:fixed;
+    bottom:280px;
+    left:280px;
+    border-block-end-color: chartreuse;
+    border-block-start-color: brown;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+  }
+
+  .button2
+  {
+    position:relative;
+    right:160px;
+    border-block-end-color: chartreuse;
+    border-block-start-color: brown;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+  }
+  .name{font-size: 150%}
+  .id{font-size:150%}
+
+  .shifttext
+  {
+      
+  }

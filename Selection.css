@@ -1,0 +1,19 @@
+body
+{
+    position:fixed;
+    bottom:300px;
+    left:450px;
+    background-image: url("image2.jpg");
+    font-size: 120%;
+    font-weight: bold;
+}
+.button
+  {
+    position:fixed;
+    bottom:250px;
+    left:580px;
+    border-block-end-color: chartreuse;
+    border-block-start-color: brown;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+  }

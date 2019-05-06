@@ -1,0 +1,73 @@
+div
+{
+  /*border: 2px solid black;
+  /*background-color: lightgrey;*/
+}
+body
+{
+    background-image: url("image2.jpg");
+}
+#avmenu {
+  clear:left;
+  float:left;
+  width:150px;
+  margin:0 0 10px 0;
+  padding:0;
+  }
+  
+  #avmenu ul {
+  list-style:none;
+  width:150px;
+  margin:0 0 20px 0;
+  padding:0;
+  }
+  
+  #avmenu li {
+  margin-bottom:5px;
+  }
+  
+  #avmenu li a {
+  font-weight:bold;
+  height:20px;
+  text-decoration:none;
+  color:#505050;
+  display:block;
+  padding:6px 0 0 10px;
+  background:#f4f4f4 url(img/menubg.gif) bottom left repeat-x;
+  border-top:1px solid #d8d8d8;
+  border-right:1px solid #d8d8d8;
+  border-bottom:1px solid #d8d8d8;
+  border-left:4px solid #cccccc;
+  }
+  
+  #avmenu li a:hover, #avmenu li a.current {
+  background:#eaeaea url(img/menubg2.gif) bottom left repeat-x;
+  color:#505050;
+  border-top:1px solid #b0b0b0;
+  border-right:1px solid #b0b0b0;
+  border-bottom:1px solid #b0b0b0;
+  border-left:4px solid #505050;
+  }
+  
+  #avmenu ul ul {
+  margin:5px 0 5px 15px;
+  font-size:0.9em;
+  width:135px;
+  }
+  
+  #avmenu ul ul a {
+  height:16px;
+  margin:0;
+  padding:4px 0 0 8px;
+  }
+  
+  #avmenu h2 {
+  font-size:200%;
+  font-weight:bold;
+  
+  }
+  .name
+  {
+    font-size:150%;
+    font-weight: bold;
+  }
